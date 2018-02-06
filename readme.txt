@@ -1,2 +1,2 @@
 Git is a version control system.
-what fuck
+what fuck GPL AARRR
